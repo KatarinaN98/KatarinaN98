@@ -1,10 +1,14 @@
-# Katarina
-Hi there! 👋 Welcome to my GitHub profile
-🔭 I’m currently working on my first React project
-🤝 I'm looking for collaborations to create impactful projects and share innovative ideas with fellow developers and creators
-🌱 I’m currently learning React
-📫 How to reach me: naskovik98@live.com
+<h1 align="center">Hi 👋, I'm Katarina Naskovikj</h1>
+<h3 align="center">A passionate frontend developer based in Copenhagen</h3>
 
+- 🔭 I’m currently working on **my first React project**
+
+- 🤝 I'm looking for **collaborations to create impactful projects and share innovative ideas with fellow developers and creators**
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me: **naskovik98@live.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
