@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Katarina Naskovikj</h1>
-<h3 align="center">A passionate frontend developer based in Copenhagen</h3>
 
 - 🔭 I’m currently working on **my first React project**
 
