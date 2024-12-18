@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katarina Naskovikj</h1>
+<h1 align="center">Hi there👋</h1>
 
 - 🔭 I’m currently working on **my first React project**
 
