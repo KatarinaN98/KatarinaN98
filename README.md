@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **naskovik98@live.com**
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> www.linkedin.com/in/katarina-naskovikj-a531881a7
 <p align="left">
 </p>
 
