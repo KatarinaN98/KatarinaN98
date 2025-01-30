@@ -4,7 +4,7 @@
 
 - 🤝 I'm looking for **collaborations to create impactful projects and share innovative ideas with fellow developers and creators**
 
-- 🌱 I’m currently learning **React at ReDI School**
+- 🌱 I’m currently learning ** at ReDI School**
 
 - 📫 How to reach me: **naskovik98@live.com**
   
