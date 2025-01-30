@@ -1,10 +1,10 @@
 <h1 align="center">Hi there👋</h1>
 
-- 🔭 I’m currently working on **my first React project**
+- 🔭 I’m currently working on **my React project**
 
 - 🤝 I'm looking for **collaborations to create impactful projects and share innovative ideas with fellow developers and creators**
 
-- 🌱 I’m currently learning ** at ReDI School**
+- 🌱 I’m currently learning at ReDI School
 
 - 📫 How to reach me: **naskovik98@live.com**
   
